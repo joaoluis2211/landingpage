@@ -85,7 +85,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
                 <!-- IMAGEM HERO (1- hero) -->
                 <div class="mt-6 rounded-xl overflow-hidden border border-neutral-800 shadow-2xl h-[220px]">
-                    <img src="hero.png" alt="Vikings Barber Ambiente" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500">
+                    <img src="assets/hero.png" alt="Vikings Barber Ambiente" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500">
                 </div>
             </div>
 
@@ -183,7 +183,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <!-- Item 1 (2- pub) -->
                 <div class="bg-neutral-900 border border-neutral-800 rounded-xl overflow-hidden hover:border-amber-500/50 transition-colors">
                     <div class="h-[200px] overflow-hidden">
-                        <img src="pub.png" alt="Pub e Lounge Exclusivo" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500">
+                        <img src="assets/pub.png" alt="Pub e Lounge Exclusivo" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-bold text-white mb-2">Pub & Lounge Exclusivo</h3>
@@ -194,7 +194,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <!-- Item 2 (3- barba) -->
                 <div class="bg-neutral-900 border border-neutral-800 rounded-xl overflow-hidden hover:border-amber-500/50 transition-colors">
                     <div class="h-[200px] overflow-hidden">
-                        <img src="barba.png" alt="Barboterapia com Toalha Quente" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500">
+                        <img src="assets/barba.png" alt="Barboterapia com Toalha Quente" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-bold text-white mb-2">Barboterapia com Toalha Quente</h3>
@@ -205,7 +205,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <!-- Item 3 (4- corte) -->
                 <div class="bg-neutral-900 border border-neutral-800 rounded-xl overflow-hidden hover:border-amber-500/50 transition-colors">
                     <div class="h-[200px] overflow-hidden">
-                        <img src="corte.png" alt="Visagismo e Precisão no Corte" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500">
+                        <img src="assets/corte.png" alt="Visagismo e Precisão no Corte" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500">
                     </div>
                     <div class="p-6">
                         <h3 class="text-xl font-bold text-white mb-2">Visagismo & Precisão</h3>
@@ -271,16 +271,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <!-- Grid de Fotos de Resultados (5- 1 - foto1 e variações) -->
             <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12">
                 <div class="rounded-lg overflow-hidden border border-neutral-800 aspect-square">
-                    <img src="foto1.png" alt="Resultado Corte e Barba 1" class="w-full h-full object-cover object-center hover:scale-105 transition-transform duration-500">
+                    <img src="assets/foto1.png" alt="Resultado Corte e Barba 1" class="w-full h-full object-cover object-center hover:scale-105 transition-transform duration-500">
                 </div>
                 <div class="rounded-lg overflow-hidden border border-neutral-800 aspect-square">
-                    <img src="foto2.png" alt="Resultado Corte e Barba 2" class="w-full h-full object-cover object-center hover:scale-105 transition-transform duration-500">
+                    <img src="assets/foto2.png" alt="Resultado Corte e Barba 2" class="w-full h-full object-cover object-center hover:scale-105 transition-transform duration-500">
                 </div>
                 <div class="rounded-lg overflow-hidden border border-neutral-800 aspect-square">
-                    <img src="foto3.png" alt="Resultado Corte e Barba 3" class="w-full h-full object-cover object-center hover:scale-105 transition-transform duration-500">
+                    <img src="assets/foto3.png" alt="Resultado Corte e Barba 3" class="w-full h-full object-cover object-center hover:scale-105 transition-transform duration-500">
                 </div>
                 <div class="rounded-lg overflow-hidden border border-neutral-800 aspect-square">
-                    <img src="foto4.png" alt="Resultado Corte e Barba 4" class="w-full h-full object-cover object-center hover:scale-105 transition-transform duration-500">
+                    <img src="assets/foto4.png" alt="Resultado Corte e Barba 4" class="w-full h-full object-cover object-center hover:scale-105 transition-transform duration-500">
                 </div>
             </div>
 
